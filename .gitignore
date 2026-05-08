@@ -18,6 +18,7 @@ data/names.pkl
 
 # Attendance records
 Attendance/*.csv
+!Attendance/.gitkeep
 
 # OS/editor files
 .DS_Store
